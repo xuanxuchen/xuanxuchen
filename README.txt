@@ -1,1 +1,1 @@
-第一个远程仓库
+https://github.com/xuanxuchen/xuanxuchen.git
